@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello Im Jose Gabriel Estrella 👋:
 About Me (GitHub Profile)<br>Hi there! 👋 I'm a passionate 20-year-old developer from the Dominican Republic with an insatiable drive to grow, learn, and excel in the tech world. 🚀<br><br>I specialize in Kotlin, .NET 8, and .NET 9, and I'm also skilled in creating dynamic and user-friendly web applications. My goal is to constantly push my boundaries, build innovative solutions, and contribute to impactful projects.<br><br>I'm eager to collaborate with like-minded individuals and organizations, turning creative ideas into reality. Let's build something amazing together! 💻✨<br><br>Feel free to connect or check out my projects below. Your feedback and opportunities are always welcome! 🙌
 
 
