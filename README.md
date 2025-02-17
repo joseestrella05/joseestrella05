@@ -12,6 +12,12 @@ About Me (GitHub Profile)<br>Hi there! 👋 I'm a passionate 20-year-old develop
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=joseestrella05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=joseestrella05&icon=0&color=0)](https://visitcount.itsvg.in)
 
