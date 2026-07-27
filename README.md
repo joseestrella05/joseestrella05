@@ -1,59 +1,106 @@
-<h1 align="center">Jose Gabriel Estrella</h1>
 <p align="center">
-  <b>Software Developer & IoT Innovator</b><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=JOSE%20GABRIEL%20ESTRELLA&fontSize=50&fontAlign=50&animation=fadeIn" alt="Jose Gabriel Estrella - Software Engineer & IoT" />
+</p>
+
+<p align="center">
+  <b>Software Architect | IoT & AgTech Innovator | Embedded Systems Specialist</b><br>
   Dominican Republic
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:josegabrielestrella05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/tu-perfil-de-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </td>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 📋 About & Core Focus
-
-* **Smart Agriculture & AgTech**: Designing software and infrastructure to automate agricultural telemetry, livestock/crop monitoring, and precision metrics.
-* **IoT & Embedded Systems**: Programming low-level microcontrollers (C/C++) and implementing real-time messaging protocols (MQTT) for field deployment.
-* **Software Architecture**: Developing robust desktop and full-stack web applications using .NET, Go, React, and Electron.
-
----
-
-### 🧠 Learning & Engineering Philosophy
-
-> **Driven by practical execution and continuous technical deep-dives.**
-
-* **Self-Directed Technical Mastery**: I learn by directly engaging with official documentation, architecture whitepapers, and industry specs.
-* **Project-Driven Engineering**: Concepts are solidified through hands-on implementation, solving real domain challenges, and building production-grade code.
-* **Adaptability**: Rapidly acquiring new stacks and paradigms as project requirements evolve.
-
----
-
-### 🛠️ Technical Capabilities
+## 🌾 About & Core Innovation Focus
 
 <table>
   <tr>
-    <td width="30%"><b>Languages</b></td>
-    <td>C, C++, C#, Go, JavaScript, TypeScript</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>Frameworks & Web</b></td>
-    <td>.NET Core / .NET 9, React, Electron, Gin</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>IoT & Protocols</b></td>
-    <td>MQTT, Embedded Logic, Microcontroller Integration</td>
-  </tr>
-  <tr>
-    <td width="30%"><b>DevOps & Data</b></td>
-    <td>Docker, Docker Compose, MySQL, SQLite, Azure, Git</td>
+    <td width="50%" align="center">
+      <img src="https://image-placeholder.com/images/actual-image.png" alt="AgTech IoT Diagram" width="300px" style="border-radius: 10px;"/>
+      <!-- TODO: Reemplazar con un diagrama real de arquitectura IoT o una foto de hardware si tienes -->
+    </td>
+    <td width="50%">
+      <h3>Bridging Software & Agriculture</h3>
+      <p>I am a highly motivated software engineer specializing in merging high-level software architectures with low-level embedded hardware to create transformative solutions in **Precision Agriculture (AgTech)** and **Industrial IoT (IIoT)**.</p>
+      <ul>
+        <li>⚡ <b>Embedded & Real-time Systems</b>: Programming microcontrollers (C/C++) and designing resilient telemetry systems.</li>
+        <li>☁️ <b>IIoT Connectivity</b>: Implementing MQTT/HTTP/WebSockets for reliable data transmission from field devices.</li>
+        <li>🖥️ <b>Desktop & Web Solutions</b>: Building comprehensive management platforms using .NET, Go, React, and Electron.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Activity & Metrics
+## 🧠 Continuous Self-Directed Engineering
+
+> "I excel at rapid technological adaptation by interfacing directly with official documentation and implementing solution-driven architectures."
+
+| Method | Execution & Philosophy |
+| :--- | :--- |
+| **Document-Driven Learning** | Mastering tools by consuming official specifications, RFCs, and engineering whitepapers directly, ensuring a deep technical understanding. |
+| **Project-Based Execution** | Validating concepts through rapid prototyping and building production-ready code, solving real-world domain challenges in IoT and enterprise software. |
+| **Technical Adaptability** | Swiftly acquiring new language stacks, communication protocols, and infrastructure paradigms to meet evolving project requirements. |
+
+---
+
+## 🛠️ Technical Capability Spectrum
+
+### Languages & Primary Frameworks
+
+| | | | |
+| --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> C | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> C# | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> Go |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> .NET 9 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript |
+
+### IoT, AgTech & Embedded
+
+| | | |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="40" height="40"/> Embedded C/C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mqtt/mqtt-original.svg" alt="MQTT" width="40" height="40"/> MQTT / Protocols | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> ESP32 / Arduino |
+
+### DevOps, Infrastructure & Data
+
+| | | | |
+| --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> Git / GitHub | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> Azure Cloud | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> MySQL |
+
+---
+
+## 📂 Highlighted Projects
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=tokyonight&hide_border=true" width="100%" alt="Jose's GitHub Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-1&theme=tokyonight&show_owner=true" alt="Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-2&theme=tokyonight&show_owner=true" alt="Repo 2" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-3&theme=tokyonight&show_owner=true" alt="Repo 3" />
+</p>
+<!-- TODO: Reemplaza "TU-REPO-DESTACADO-X" con los nombres reales de tus repositorios -->
+
+---
+
+## 📊 High-Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=react-dark&hide_border=true&color=0077B5" width="100%" alt="Jose's GitHub Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseestrella05&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Jose's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseestrella05&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Langs" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/joseestrella05?label=Follow%20Me%20for%20IoT%20and%20AgTech%20Innovation&style=for-the-badge&color=0077B5&logo=github" alt="GitHub Followers" />
 </p>
