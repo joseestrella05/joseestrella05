@@ -18,14 +18,12 @@
 
 ---
 
-## 🌾 About & Core Innovation Focus
-
 # 🌾 Bridging Software & Agriculture
 
 <table border="0">
   <tr>
     <td width="35%" valign="top">
-      <img src="path/to/your/image_6.png" alt="JOSE GABRIEL ESTRELLA - AgTech IoT System Architecture" width="100%">
+      <img src="./diagrama.png" alt="JOSE GABRIEL ESTRELLA - AgTech IoT System Architecture" width="100%">
     </td>
     <td width="65%" valign="top">
       <p>I am a highly motivated software engineer specializing in merging high-level software architectures with low-level embedded hardware to create transformative solutions in <strong>Precision Agriculture (AgTech)</strong> and <strong>Industrial IoT (IIoT)</strong>.</p>
