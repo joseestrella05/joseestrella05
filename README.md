@@ -75,20 +75,6 @@
 
 ---
 
-## 📂 Highlighted Projects
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=FarmaciaCruz&theme=tokyonight&show_owner=true" alt="FarmaciaCruz" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=ApiRestEvent&theme=tokyonight&show_owner=true" alt="ApiRestEvent" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=finanzasclaras&theme=tokyonight&show_owner=true" alt="finanzasclaras" />
-</p>
-
----
-
----
-
 ## 📈 High-Performance Metrics
 
 <p align="center">
@@ -96,9 +82,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=react-dark&hide_border=true&area=true" width="100%" alt="Jose's GitHub Activity" />
 </p>
 
-<p align="center">
-  <!-- Stats Card (Espejo alternativo estable) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=joseestrella05&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Jose's GitHub Stats" />
-  <!-- Top Languages (Espejo alternativo estable) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=joseestrella05&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Langs" />
-</p>
+
