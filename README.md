@@ -31,5 +31,7 @@ Software Developer from the Dominican Republic, focused on building scalable sof
 
 ### 📊 GitHub Stats
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseestrella05&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseestrella05&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseestrella05&show_icons=true&theme=tokyonight&count_private=true" alt="Jose's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseestrella05&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
