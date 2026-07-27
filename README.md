@@ -75,6 +75,18 @@
 
 ---
 
+## 📂 Highlighted Projects
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=FarmaciaCruz&theme=tokyonight&show_owner=true" alt="FarmaciaCruz" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=ApiRestEvent&theme=tokyonight&show_owner=true" alt="ApiRestEvent" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=finanzasclaras&theme=tokyonight&show_owner=true" alt="finanzasclaras" />
+</p>
+
+---
+
 ## 📈 High-Performance Metrics
 
 <p align="center">
