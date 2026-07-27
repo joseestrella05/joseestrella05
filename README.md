@@ -77,16 +77,12 @@
 
 ## 📂 Highlighted Projects
 
-*Guía para arreglar las tarjetas de proyecto:*
-1. Reemplaza `joseestrella05` en `username=` con tu nombre de usuario exacto si no es ese.
-2. Reemplaza `TU-REPO-DESTACADO-X` con el nombre real de tus repositorios.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=FarmaciaCruz&theme=tokyonight&show_owner=true" alt="Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=ApiRestEvent&theme=tokyonight&show_owner=true" alt="Repo 2" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=FarmaciaCruz&theme=tokyonight&show_owner=true" alt="FarmaciaCruz" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=ApiRestEvent&theme=tokyonight&show_owner=true" alt="ApiRestEvent" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=finanzaclaras&theme=tokyonight&show_owner=true" alt="Repo 3" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=joseestrella05&repo=finanzasclaras&theme=tokyonight&show_owner=true" alt="finanzasclaras" />
 </p>
 
 ---
