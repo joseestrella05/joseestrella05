@@ -44,7 +44,6 @@
     </td>
   </tr>
 </table>
-```http://googleusercontent.com/image_generation_content/419
 ---
 
 ## 🧠 Continuous Self-Directed Engineering
