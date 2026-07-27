@@ -79,7 +79,7 @@
 
 <p align="center">
   <!-- Contribution Graph - Muy estable -->
-  <img src="https://user-images.githubusercontent.com/1316464/204071378-b1180295-d286-4e5a-8b83-a4c33075c342.png" alt="AgTech IoT Diagram" width="300px" style="border-radius: 10px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=react-dark&hide_border=true&area=true" width="100%" alt="Jose's GitHub Activity" />
 </p>
 
 
