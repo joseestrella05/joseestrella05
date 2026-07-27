@@ -20,24 +20,33 @@
 
 ## 🌾 About & Core Innovation Focus
 
-<table>
+# 🌾 Bridging Software & Agriculture
+
+<table border="0">
   <tr>
-    <td width="50%" align="center">
-      <!-- Diagrama de arquitectura IoT genérico -->
-      <img src="./diagrama.png" alt="AgTech IoT Diagram" width="300px" style="border-radius: 10px;"/>
+    <td width="35%" valign="top">
+      <img src="path/to/your/image_6.png" alt="JOSE GABRIEL ESTRELLA - AgTech IoT System Architecture" width="100%">
     </td>
-    <td width="50%">
-      <h3>Bridging Software & Agriculture</h3>
-      <p>I am a highly motivated software engineer specializing in merging high-level software architectures with low-level embedded hardware to create transformative solutions in **Precision Agriculture (AgTech)** and **Industrial IoT (IIoT)**.</p>
+    <td width="65%" valign="top">
+      <p>I am a highly motivated software engineer specializing in merging high-level software architectures with low-level embedded hardware to create transformative solutions in <strong>Precision Agriculture (AgTech)</strong> and <strong>Industrial IoT (IIoT)</strong>.</p>
       <ul>
-        <li>⚡ <b>Embedded & Real-time Systems</b>: Programming microcontrollers (C/C++) and designing resilient telemetry systems.</li>
-        <li>☁️ <b>IIoT Connectivity</b>: Implementing MQTT/HTTP/WebSockets for reliable data transmission from field devices.</li>
-        <li>🖥️ <b>Desktop & Web Solutions</b>: Building comprehensive management platforms using .NET, Go, React, and Electron.</li>
+        <li>
+          <h4>⚡ Embedded & Real-time Systems</h4>
+          <p>Programming microcontrollers (C/C++) and designing resilient telemetry systems.</p>
+        </li>
+        <li>
+          <h4>☁️ IIoT Connectivity</h4>
+          <p>Implementing MQTT/HTTP/WebSockets for reliable data transmission from field devices.</p>
+        </li>
+        <li>
+          <h4>🖥️ Desktop & Web Solutions</h4>
+          <p>Building comprehensive management platforms using .NET, Go, React, and Electron.</p>
+        </li>
       </ul>
     </td>
   </tr>
 </table>
-
+```http://googleusercontent.com/image_generation_content/419
 ---
 
 ## 🧠 Continuous Self-Directed Engineering
