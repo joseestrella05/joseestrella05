@@ -65,7 +65,7 @@
 
 | | | |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="40" height="40"/> Embedded C/C++ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mqtt/mqtt-original.svg" alt="MQTT" width="40" height="40"/> MQTT / Protocols | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> ESP32 / Arduino |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="40" height="40"/> Embedded C/C++ | <img src="https://simpleicons.org/icons/mqtt.svg" alt="MQTT" width="40" height="40" style="filter: invert(100%);"/> MQTT / Protocols | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> ESP32 / Arduino |
 
 ### DevOps, Infrastructure & Data
 
@@ -79,7 +79,7 @@
 
 <p align="center">
   <!-- Contribution Graph - Muy estable -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=react-dark&hide_border=true&area=true" width="100%" alt="Jose's GitHub Activity" />
+  <img src="https://user-images.githubusercontent.com/1316464/204071378-b1180295-d286-4e5a-8b83-a4c33075c342.png" alt="AgTech IoT Diagram" width="300px" style="border-radius: 10px;"/>
 </p>
 
 
