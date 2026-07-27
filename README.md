@@ -1,28 +1,59 @@
-# Hi there, I'm Jose Gabriel Estrella 👋
+<h1 align="center">Jose Gabriel Estrella</h1>
+<p align="center">
+  <b>Software Developer & IoT Innovator</b><br>
+  Dominican Republic
+</p>
 
-Software Developer from the Dominican Republic, focused on building scalable software, modern desktop/web applications, and exploring smart technology solutions in IoT & AgTech.
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:josegabrielestrella05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-### 🚀 What I'm Currently Focused On
-- 🔭 **Current Goals**: Building robust desktop and web applications with clean architecture and high performance.
-- 🌱 **Expanding Skills**: Deepening expertise in Go, .NET, IoT protocols (MQTT), and cloud/DevOps practices.
-- 💼 **Projects**: Open for technical collaborations, full-stack development, and software consulting.
-- 📫 **Contact & Connect**: [LinkedIn](https://linkedin.com) | [Estrella Consulting](https://estrellaconsulting.net) | **Email**: tu-email@ejemplo.com
+### 📋 About & Core Focus
+
+* **Smart Agriculture & AgTech**: Designing software and infrastructure to automate agricultural telemetry, livestock/crop monitoring, and precision metrics.
+* **IoT & Embedded Systems**: Programming low-level microcontrollers (C/C++) and implementing real-time messaging protocols (MQTT) for field deployment.
+* **Software Architecture**: Developing robust desktop and full-stack web applications using .NET, Go, React, and Electron.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧠 Learning & Engineering Philosophy
 
-**Languages & Frameworks:**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+> **Driven by practical execution and continuous technical deep-dives.**
 
-**DevOps, Infrastructure & Databases:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+* **Self-Directed Technical Mastery**: I learn by directly engaging with official documentation, architecture whitepapers, and industry specs.
+* **Project-Driven Engineering**: Concepts are solidified through hands-on implementation, solving real domain challenges, and building production-grade code.
+* **Adaptability**: Rapidly acquiring new stacks and paradigms as project requirements evolve.
+
+---
+
+### 🛠️ Technical Capabilities
+
+<table>
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td>C, C++, C#, Go, JavaScript, TypeScript</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Frameworks & Web</b></td>
+    <td>.NET Core / .NET 9, React, Electron, Gin</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>IoT & Protocols</b></td>
+    <td>MQTT, Embedded Logic, Microcontroller Integration</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>DevOps & Data</b></td>
+    <td>Docker, Docker Compose, MySQL, SQLite, Azure, Git</td>
+  </tr>
+</table>
+
+---
+
+### 📈 Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=tokyonight&hide_border=true" width="100%" alt="Jose's GitHub Activity" />
+</p>
