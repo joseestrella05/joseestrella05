@@ -24,7 +24,7 @@
   <tr>
     <td width="50%" align="center">
       <!-- Diagrama de arquitectura IoT genérico -->
-      <img src="https://user-images.githubusercontent.com/1316464/204071378-b1180295-d286-4e5a-8b83-a4c33075c342.png" alt="AgTech IoT Diagram" width="300px" style="border-radius: 10px;"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Connecting%20Hardware%20and%20Agriculture%20through%20IoT%20and%20Smart%20Telemetry" alt="AgTech Vision" width="100%" />
     </td>
     <td width="50%">
       <h3>Bridging Software & Agriculture</h3>
