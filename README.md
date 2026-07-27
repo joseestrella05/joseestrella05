@@ -82,28 +82,27 @@
 2. Reemplaza `TU-REPO-DESTACADO-X` con el nombre real de tus repositorios.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-1&theme=tokyonight&show_owner=true" alt="Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-2&theme=tokyonight&show_owner=true" alt="Repo 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=FarmaciaCruz&theme=tokyonight&show_owner=true" alt="Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=ApiRestEvent&theme=tokyonight&show_owner=true" alt="Repo 2" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-3&theme=tokyonight&show_owner=true" alt="Repo 3" />
-</p>
-
----
-
-## 📊 High-Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=react-dark&hide_border=true&color=0077B5" width="100%" alt="Jose's GitHub Activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseestrella05&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Jose's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseestrella05&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=finanzaclaras&theme=tokyonight&show_owner=true" alt="Repo 3" />
 </p>
 
 ---
 
+---
+
+## 📈 High-Performance Metrics
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/joseestrella05?label=Follow%20Me%20for%20IoT%20and%20AgTech%20Innovation&style=for-the-badge&color=0077B5&logo=github" alt="GitHub Followers" />
+  <!-- Contribution Graph - Muy estable -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=react-dark&hide_border=true&area=true" width="100%" alt="Jose's GitHub Activity" />
+</p>
+
+<p align="center">
+  <!-- Stats Card (Espejo alternativo estable) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=joseestrella05&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Jose's GitHub Stats" />
+  <!-- Top Languages (Espejo alternativo estable) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=joseestrella05&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Langs" />
 </p>
