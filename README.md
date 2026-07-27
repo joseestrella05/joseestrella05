@@ -23,8 +23,8 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://image-placeholder.com/images/actual-image.png" alt="AgTech IoT Diagram" width="300px" style="border-radius: 10px;"/>
-      <!-- TODO: Reemplazar con un diagrama real de arquitectura IoT o una foto de hardware si tienes -->
+      <!-- Diagrama de arquitectura IoT genérico -->
+      <img src="https://user-images.githubusercontent.com/1316464/204071378-b1180295-d286-4e5a-8b83-a4c33075c342.png" alt="AgTech IoT Diagram" width="300px" style="border-radius: 10px;"/>
     </td>
     <td width="50%">
       <h3>Bridging Software & Agriculture</h3>
@@ -77,6 +77,10 @@
 
 ## 📂 Highlighted Projects
 
+*Guía para arreglar las tarjetas de proyecto:*
+1. Reemplaza `joseestrella05` en `username=` con tu nombre de usuario exacto si no es ese.
+2. Reemplaza `TU-REPO-DESTACADO-X` con el nombre real de tus repositorios.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-1&theme=tokyonight&show_owner=true" alt="Repo 1" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-2&theme=tokyonight&show_owner=true" alt="Repo 2" />
@@ -84,7 +88,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseestrella05&repo=TU-REPO-DESTACADO-3&theme=tokyonight&show_owner=true" alt="Repo 3" />
 </p>
-<!-- TODO: Reemplaza "TU-REPO-DESTACADO-X" con los nombres reales de tus repositorios -->
 
 ---
 
