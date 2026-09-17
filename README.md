@@ -90,9 +90,12 @@ Having architected concurrent and distributed systems, I possess an end-to-end u
 <div align="center">
 
 #### Relational Engines & Storage
-<p>
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+    <img src="https://raw.githubusercontent.com/joseestrella05/joseestrella05/main/sqlserver.svg" alt="Microsoft SQL Server" width="48" height="48" style="vertical-align: middle; margin-right: 4px;" />
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql,sqlite" alt="Database Engines" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" style="vertical-align: middle;" />
   </a>
 </p>
 
@@ -121,14 +124,16 @@ Having architected concurrent and distributed systems, I possess an end-to-end u
 <div align="center">
 
   <a href="https://github.com/joseestrella05">
-    <img src="https://github-readme-stats.vercel.app/api?username=joseestrella05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Jose's GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseestrella05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=joseestrella05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Jose's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=joseestrella05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="165" />
   </a>
 
   <br><br>
 
-  <!-- Activity Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseestrella05&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/joseestrella05">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=joseestrella05&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" height="165" />
+  </a>
 
 </div>
 
